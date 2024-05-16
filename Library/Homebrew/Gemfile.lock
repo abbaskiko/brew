@@ -73,7 +73,8 @@ GEM
     rainbow (3.0.0)
     rdiscount (2.2.0.2)
     regexp_parser (1.8.2)
-    rexml (3.2.4)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     ronn (0.7.3)
       hpricot (>= 0.8.2)
       mustache (>= 0.7.0)
@@ -132,6 +133,7 @@ GEM
       sorbet (~> 0.5.5)
       sorbet-runtime
       thor (>= 0.19.2)
+    strscan (3.1.0)
     tapioca (0.4.7)
       parlour (>= 2.1.0)
       pry (>= 0.12.2)
